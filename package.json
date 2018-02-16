@@ -1,0 +1,23 @@
+{
+  "name": "Chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Keval parikh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-uglify-es": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  }
+}
